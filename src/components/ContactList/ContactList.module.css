@@ -1,0 +1,14 @@
+.list {
+    list-style-type: none;
+};
+
+.item {
+    
+    display: flex;
+    justify-content: left;
+    align-items: center;
+};
+
+.contact {
+    border: solid 1px #000;
+}
